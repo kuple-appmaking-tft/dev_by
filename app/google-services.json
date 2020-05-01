@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580466427567",
+    "firebase_url": "https://kuappreview.firebaseio.com",
+    "project_id": "kuappreview",
+    "storage_bucket": "kuappreview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580466427567:android:4c57521c03e673b382765a",
+        "android_client_info": {
+          "package_name": "com.paik.kuapp_review"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580466427567-26k0if5mlijc2p9346ucntnmjrbvif79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paik.kuapp_review",
+            "certificate_hash": "773764b6d841f36f068d77f3f7fdce6cb68d870e"
+          }
+        },
+        {
+          "client_id": "580466427567-ac6d1g32qd8kvc7b1bia0fjm630niqcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCGzO0oNQtRxPvD4rp1USZZtCz11VWjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580466427567-ac6d1g32qd8kvc7b1bia0fjm630niqcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
