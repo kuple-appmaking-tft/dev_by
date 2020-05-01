@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\da6e47f6d49fe2b842b70cdc9f153d69\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb546efa04ba617cfb46cc41b4489ebb\jetified-facebook-android-sdk-5.15.3\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-login:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\d85374664f5b8ac8207474368ce309c0\jetified-facebook-login-5.15.3\AndroidManifest.xml:21:1-31:12
@@ -16,6 +16,7 @@ MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\Panda\.gradle
 MERGED from [com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8c418d1ac6099acf13d0e90d8c2b75c7\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ce4a755094d3331e0ed0538503a01765\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\da11a1995077944c421ca676573e7f93\jetified-play-services-flags-16.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\d6929ae78cb441c0e882ff95eb95c29f\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\5b0725ee646fcd815bc53c6943c9596c\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
@@ -49,6 +50,8 @@ MERGED from [androidx.core:core:1.0.1] C:\Users\Panda\.gradle\caches\transforms-
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\04e52ece449e0d695b6dd94a1aa14a5d\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8b0026e12e5142fd143b02fd4f043dcc\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c757a30081f30809733a2e65195072cb\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\823f2148be6689a8c9264b4f272aaf37\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\42c6c791a56d142485bc711cb9bbedb7\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8ed7bf55d8a3defc8bdd1c485282397a\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f1191275e46c0ee2429994c5c0671bc6\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\fc8404010e7602337f98bc9551dcd2fe\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -62,20 +65,20 @@ MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\P
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46597747501b90f81120e7c8f7ed92e3\jetified-protolite-well-known-types-16.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\2fff094575064a20a16d95a8b2ac32ca\jetified-grpc-android-1.16.1\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ad39946e57cd44bade041abf42062389\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
-INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:3:9-40
 		INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-46:12
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:2:11-69
@@ -92,7 +95,7 @@ ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:6:22-77
 application
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:8:5-44:19
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:8:5-46:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\da6e47f6d49fe2b842b70cdc9f153d69\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\da6e47f6d49fe2b842b70cdc9f153d69\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb546efa04ba617cfb46cc41b4489ebb\jetified-facebook-android-sdk-5.15.3\AndroidManifest.xml:28:5-29:19
@@ -111,6 +114,8 @@ MERGED from [com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.grad
 MERGED from [com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:15:5-21:19
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ce4a755094d3331e0ed0538503a01765\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ce4a755094d3331e0ed0538503a01765\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\d6929ae78cb441c0e882ff95eb95c29f\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\d6929ae78cb441c0e882ff95eb95c29f\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
@@ -133,6 +138,8 @@ MERGED from [androidx.core:core:1.0.1] C:\Users\Panda\.gradle\caches\transforms-
 MERGED from [androidx.core:core:1.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ac1a0f9e0b5063b32871cb93ab7b9b4c\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\04e52ece449e0d695b6dd94a1aa14a5d\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\04e52ece449e0d695b6dd94a1aa14a5d\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\823f2148be6689a8c9264b4f272aaf37\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\823f2148be6689a8c9264b4f272aaf37\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ad39946e57cd44bade041abf42062389\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ad39946e57cd44bade041abf42062389\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
 	android:appComponentFactory
@@ -149,74 +156,78 @@ MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Panda\.gr
 		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:9:13-39
 	android:theme
 		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:14:13-44
+activity#com.paik.kuapp_review.main
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:9-51
+	android:name
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:19-39
 activity#com.paik.kuapp_review.navigation.AddPhotoActivity
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:9-74
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:9-65
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:19-62
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:19-62
 activity#com.paik.kuapp_review.LoginActivity
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:9-21:20
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:19-48
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:17:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:17:13-20:29
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:21:27-74
 activity#com.paik.kuapp_review.MainActivity
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:22:9-59
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:24:9-50
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:24:19-47
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:24:9-26:59
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:26:9-28:59
 	android:value
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:26:17-56
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:28:17-56
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:25:17-62
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:27:17-62
 activity#com.facebook.FacebookActivity
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:28:9-31:52
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:30:9-33:52
 MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:30:9-33:66
 MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:30:9-33:66
 	android:label
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:31:17-49
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:33:17-49
 	android:configChanges
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:30:17-100
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:32:17-100
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:33:13-63
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:29:17-61
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:31:17-61
 activity#com.facebook.CustomTabActivity
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:32:9-43:20
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:34:9-45:20
 MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:35:9-49:20
 MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:35:9-49:20
 	tools:node
 		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:38:13-31
 	android:exported
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:34:17-40
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:17-40
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:33:17-62
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:35:17-62
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:35:13-42:29
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:37:13-44:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:17-76
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:40:17-76
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:27-73
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:40:27-73
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:39:17-78
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:17-78
 	android:name
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:39:27-75
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:27-75
 data
-ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:17-75
+ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:43:17-75
 	android:scheme
-		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:23-72
+		ADDED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:43:23-72
 uses-sdk
 INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml
@@ -245,6 +256,8 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Panda\.gradle\cac
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8c418d1ac6099acf13d0e90d8c2b75c7\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ce4a755094d3331e0ed0538503a01765\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ce4a755094d3331e0ed0538503a01765\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\da11a1995077944c421ca676573e7f93\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\da11a1995077944c421ca676573e7f93\jetified-play-services-flags-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\d6929ae78cb441c0e882ff95eb95c29f\jetified-firebase-auth-interop-16.0.1\AndroidManifest.xml:5:5-44
@@ -311,6 +324,10 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panda\.gradle\
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8b0026e12e5142fd143b02fd4f043dcc\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c757a30081f30809733a2e65195072cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c757a30081f30809733a2e65195072cb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\823f2148be6689a8c9264b4f272aaf37\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\823f2148be6689a8c9264b4f272aaf37\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\42c6c791a56d142485bc711cb9bbedb7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\42c6c791a56d142485bc711cb9bbedb7\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8ed7bf55d8a3defc8bdd1c485282397a\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8ed7bf55d8a3defc8bdd1c485282397a\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f1191275e46c0ee2429994c5c0671bc6\documentfile-1.0.0\AndroidManifest.xml:20:5-44

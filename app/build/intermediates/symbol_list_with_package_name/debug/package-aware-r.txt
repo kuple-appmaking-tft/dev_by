@@ -1264,6 +1264,14 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id detailviewfragment_recyclerview
+id detailviewitem_comment_imageview
+id detailviewitem_explain_textview
+id detailviewitem_favorite_imageview
+id detailviewitem_favoritecounter_textview
+id detailviewitem_imageview_content
+id detailviewitem_profile_image
+id detailviewitem_profile_textview
 id dimensions
 id direct
 id disableHome
@@ -1287,6 +1295,7 @@ id filled
 id fixed
 id forever
 id ghost_view
+id glide_custom_view_target_tag
 id gone
 id google_signin_button
 id group_divider
@@ -1508,6 +1517,7 @@ layout fragment_alarm
 layout fragment_detail
 layout fragment_grid
 layout fragment_user
+layout item_detail
 layout messenger_button_send_blue_large
 layout messenger_button_send_blue_round
 layout messenger_button_send_blue_small

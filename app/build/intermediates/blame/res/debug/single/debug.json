@@ -140,6 +140,10 @@
         "source": "C:\\Users\\Panda\\AndroidStudioProjects\\kuapp_review\\app\\src\\main\\res\\drawable\\ic_add_a_photo.png"
     },
     {
+        "merged": "C:\\Users\\Panda\\AndroidStudioProjects\\kuapp_review\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_detail.xml.flat",
+        "source": "C:\\Users\\Panda\\AndroidStudioProjects\\kuapp_review\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
         "merged": "C:\\Users\\Panda\\AndroidStudioProjects\\kuapp_review\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Panda\\AndroidStudioProjects\\kuapp_review\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },

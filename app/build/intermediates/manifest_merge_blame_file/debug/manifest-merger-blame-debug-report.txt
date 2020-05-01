@@ -24,7 +24,7 @@
 14-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\ad39946e57cd44bade041abf42062389\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
 15
 16    <application
-16-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:8:5-44:19
+16-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:8:5-46:19
 17        android:allowBackup="true"
 17-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:9:13-39
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -39,207 +39,211 @@
 23-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:12:13-58
 24        android:supportsRtl="true"
 24-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:13:13-39
-25        android:theme="@style/AppTheme" >
-25-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:14:13-44
-26        <activity android:name="com.paik.kuapp_review.navigation.AddPhotoActivity" />
-26-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:9-74
-26-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:19-62
-27        <activity android:name="com.paik.kuapp_review.LoginActivity" >
-27-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:9-21:20
-27-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:19-48
-28            <intent-filter>
-28-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:17:13-20:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:18:17-69
-29-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:18:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:17-77
-31-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:27-74
-32            </intent-filter>
-33        </activity>
-34        <activity android:name="com.paik.kuapp_review.MainActivity" />
-34-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:22:9-59
-34-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:22:19-47
-35
-36        <meta-data
-36-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:24:9-26:59
-37            android:name="com.facebook.sdk.ApplicationId"
-37-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:25:17-62
-38            android:value="@string/facebook_app_id" />
-38-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:26:17-56
-39
-40        <activity
-40-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:28:9-31:52
-41            android:name="com.facebook.FacebookActivity"
-41-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:29:17-61
-42            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-42-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:30:17-100
-43            android:label="@string/app_name"
-43-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:31:17-49
-44            android:theme="@style/com_facebook_activity_theme" />
-44-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:33:13-63
-45        <activity
-45-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:32:9-43:20
-46            android:name="com.facebook.CustomTabActivity"
-46-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:33:17-62
-47            android:exported="true" >
-47-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:34:17-40
-48            <intent-filter>
-48-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:35:13-42:29
-49                <action android:name="android.intent.action.VIEW" />
-49-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:17-69
-49-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:25-66
-50
-51                <category android:name="android.intent.category.DEFAULT" />
-51-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:17-76
-51-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:27-73
-52                <category android:name="android.intent.category.BROWSABLE" />
-52-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:39:17-78
-52-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:39:27-75
-53
-54                <data android:scheme="@string/fb_login_protocol_scheme" />
-54-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:17-75
-54-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:23-72
-55            </intent-filter>
-56            <intent-filter>
-56-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
-57                <action android:name="android.intent.action.VIEW" />
-57-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:17-69
-57-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:25-66
-58
-59                <category android:name="android.intent.category.DEFAULT" />
-59-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:17-76
-59-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:27-73
-60                <category android:name="android.intent.category.BROWSABLE" />
-60-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:39:17-78
-60-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:39:27-75
-61
-62                <data
-62-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:17-75
-63                    android:host="cct.com.paik.kuapp_review"
-64                    android:scheme="fbconnect" />
-64-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:23-72
-65            </intent-filter>
-66        </activity>
-67        <activity android:name="com.facebook.CustomTabMainActivity" />
-67-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:9-71
-67-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:19-68
-68        <activity
-68-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:24:9-31:50
-69            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-69-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:25:13-85
-70            android:excludeFromRecents="true"
-70-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:26:13-46
-71            android:exported="true"
-71-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:27:13-36
-72            android:launchMode="singleTask"
-72-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:28:13-44
-73            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-73-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:29:13-102
-74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-74-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:30:13-72
-75
-76        <service
-76-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:33:9-39:19
-77            android:name="com.google.firebase.components.ComponentDiscoveryService"
-77-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:34:13-84
-78            android:exported="false" >
-78-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:35:13-37
-79            <meta-data
-79-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:36:13-38:85
-80                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-80-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:37:17-109
-81                android:value="com.google.firebase.components.ComponentRegistrar" />
-81-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:38:17-82
-82            <meta-data
-82-->[com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:17:13-19:85
-83                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-83-->[com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:18:17-111
-84                android:value="com.google.firebase.components.ComponentRegistrar" />
-84-->[com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:19:17-82
-85        </service>
-86
-87        <activity
-87-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
-88            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-88-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
-89            android:excludeFromRecents="true"
-89-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
-90            android:exported="false"
-90-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
-91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-91-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
-92        <!--
-93            Service handling Google Sign-In user revocation. For apps that do not integrate with
-94            Google Sign-In, this service will never be started.
-95        -->
-96        <service
-96-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
-97            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-97-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
-98            android:exported="true"
-98-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
-99            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-99-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
-100
-101        <activity
-101-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-102            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-102-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-103            android:exported="false"
-103-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-104            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-104-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-105
-106        <provider
-106-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:10:9-14:39
-107            android:name="com.google.firebase.provider.FirebaseInitProvider"
-107-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:11:13-77
-108            android:authorities="com.paik.kuapp_review.firebaseinitprovider"
-108-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:12:13-72
-109            android:exported="false"
-109-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:13:13-37
-110            android:initOrder="100" />
-110-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:14:13-36
-111
-112        <meta-data
-112-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb988709bf26e710a640b8f02c02c0fd\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-113            android:name="com.google.android.gms.version"
-113-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb988709bf26e710a640b8f02c02c0fd\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-114            android:value="@integer/google_play_services_version" />
-114-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb988709bf26e710a640b8f02c02c0fd\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-115        <!--
-116         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
-117         with the application context. This config is merged in with the host app's manifest,
-118         but there can only be one provider with the same authority activated at any given
-119         point; so if the end user has two or more different apps that use Facebook SDK, only the
-120         first one will be able to use the provider. To work around this problem, we use the
-121         following placeholder in the authority to identify each host application as if it was
-122         a completely different provider.
-123        -->
-124        <provider
-124-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
-125            android:name="com.facebook.internal.FacebookInitProvider"
-125-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:40:13-70
-126            android:authorities="com.paik.kuapp_review.FacebookInitProvider"
-126-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:41:13-72
-127            android:exported="false" />
-127-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:42:13-37
-128
-129        <receiver
-129-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
-130            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
-130-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:45:13-86
-131            android:exported="false" >
-131-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:46:13-37
-132            <intent-filter>
-132-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
-133                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
-133-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:17-95
-133-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:25-92
-134            </intent-filter>
-135        </receiver>
-136    </application>
-137
-138</manifest>
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:14:13-44
+27        <activity android:name="com.paik.kuapp_review.main" />
+27-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:9-51
+27-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:15:19-39
+28        <activity android:name="com.paik.kuapp_review.navigation.AddPhotoActivity" />
+28-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:9-65
+28-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:16:19-62
+29        <activity android:name="com.paik.kuapp_review.LoginActivity" >
+29-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:17:9-23:20
+29-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:17:19-48
+30            <intent-filter>
+30-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:18:13-22:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:17-69
+31-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:19:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:21:17-77
+33-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:21:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.paik.kuapp_review.MainActivity" />
+36-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:24:9-50
+36-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:24:19-47
+37
+38        <meta-data
+38-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:26:9-28:59
+39            android:name="com.facebook.sdk.ApplicationId"
+39-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:27:17-62
+40            android:value="@string/facebook_app_id" />
+40-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:28:17-56
+41
+42        <activity
+42-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:30:9-33:52
+43            android:name="com.facebook.FacebookActivity"
+43-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:31:17-61
+44            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+44-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:32:17-100
+45            android:label="@string/app_name"
+45-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:33:17-49
+46            android:theme="@style/com_facebook_activity_theme" />
+46-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:33:13-63
+47        <activity
+47-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:34:9-45:20
+48            android:name="com.facebook.CustomTabActivity"
+48-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:35:17-62
+49            android:exported="true" >
+49-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:36:17-40
+50            <intent-filter>
+50-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:37:13-44:29
+51                <action android:name="android.intent.action.VIEW" />
+51-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:17-69
+51-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:25-66
+52
+53                <category android:name="android.intent.category.DEFAULT" />
+53-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:40:17-76
+53-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:40:27-73
+54                <category android:name="android.intent.category.BROWSABLE" />
+54-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:17-78
+54-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:27-75
+55
+56                <data android:scheme="@string/fb_login_protocol_scheme" />
+56-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:43:17-75
+56-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:43:23-72
+57            </intent-filter>
+58            <intent-filter>
+58-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+59                <action android:name="android.intent.action.VIEW" />
+59-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:17-69
+59-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:38:25-66
+60
+61                <category android:name="android.intent.category.DEFAULT" />
+61-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:40:17-76
+61-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:40:27-73
+62                <category android:name="android.intent.category.BROWSABLE" />
+62-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:17-78
+62-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:41:27-75
+63
+64                <data
+64-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:43:17-75
+65                    android:host="cct.com.paik.kuapp_review"
+66                    android:scheme="fbconnect" />
+66-->C:\Users\Panda\AndroidStudioProjects\kuapp_review\app\src\main\AndroidManifest.xml:43:23-72
+67            </intent-filter>
+68        </activity>
+69        <activity android:name="com.facebook.CustomTabMainActivity" />
+69-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:9-71
+69-->[com.facebook.android:facebook-common:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\74ff396871b2b974ea2f606f55a6b5ec\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:19-68
+70        <activity
+70-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:24:9-31:50
+71            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+71-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:25:13-85
+72            android:excludeFromRecents="true"
+72-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:26:13-46
+73            android:exported="true"
+73-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:27:13-36
+74            android:launchMode="singleTask"
+74-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:28:13-44
+75            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+75-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:29:13-102
+76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+76-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:30:13-72
+77
+78        <service
+78-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:33:9-39:19
+79            android:name="com.google.firebase.components.ComponentDiscoveryService"
+79-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:34:13-84
+80            android:exported="false" >
+80-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:35:13-37
+81            <meta-data
+81-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:36:13-38:85
+82                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+82-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:37:17-109
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.firebase:firebase-auth:16.1.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\90094145fde1fc2d1f0722e94f5889ee\jetified-firebase-auth-16.1.0\AndroidManifest.xml:38:17-82
+84            <meta-data
+84-->[com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:17:13-19:85
+85                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+85-->[com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:18:17-111
+86                android:value="com.google.firebase.components.ComponentRegistrar" />
+86-->[com.google.firebase:firebase-firestore:18.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\f72338a89147d1b27b058feea3b2ae94\jetified-firebase-firestore-18.0.0\AndroidManifest.xml:19:17-82
+87        </service>
+88
+89        <activity
+89-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+90            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+90-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+91            android:excludeFromRecents="true"
+91-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+92            android:exported="false"
+92-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+93            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+93-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+94        <!--
+95            Service handling Google Sign-In user revocation. For apps that do not integrate with
+96            Google Sign-In, this service will never be started.
+97        -->
+98        <service
+98-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+99            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+99-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+100            android:exported="true"
+100-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+101            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+101-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\46b23d14ed1b7d2daac49783db287aeb\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+102
+103        <activity
+103-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+104            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+104-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+106-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\8d5f0c118f713351481619ac7d2b811a\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+107
+108        <provider
+108-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:10:9-14:39
+109            android:name="com.google.firebase.provider.FirebaseInitProvider"
+109-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:11:13-77
+110            android:authorities="com.paik.kuapp_review.firebaseinitprovider"
+110-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:12:13-72
+111            android:exported="false"
+111-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:13:13-37
+112            android:initOrder="100" />
+112-->[com.google.firebase:firebase-common:16.0.4] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\c051bcc6a1dd5a163e66f029cd79854f\jetified-firebase-common-16.0.4\AndroidManifest.xml:14:13-36
+113
+114        <meta-data
+114-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb988709bf26e710a640b8f02c02c0fd\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+115            android:name="com.google.android.gms.version"
+115-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb988709bf26e710a640b8f02c02c0fd\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+116            android:value="@integer/google_play_services_version" />
+116-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\eb988709bf26e710a640b8f02c02c0fd\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+117        <!--
+118         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+119         with the application context. This config is merged in with the host app's manifest,
+120         but there can only be one provider with the same authority activated at any given
+121         point; so if the end user has two or more different apps that use Facebook SDK, only the
+122         first one will be able to use the provider. To work around this problem, we use the
+123         following placeholder in the authority to identify each host application as if it was
+124         a completely different provider.
+125        -->
+126        <provider
+126-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
+127            android:name="com.facebook.internal.FacebookInitProvider"
+127-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:40:13-70
+128            android:authorities="com.paik.kuapp_review.FacebookInitProvider"
+128-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:41:13-72
+129            android:exported="false" />
+129-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:42:13-37
+130
+131        <receiver
+131-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
+132            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+132-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:45:13-86
+133            android:exported="false" >
+133-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:46:13-37
+134            <intent-filter>
+134-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
+135                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+135-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:17-95
+135-->[com.facebook.android:facebook-core:5.15.3] C:\Users\Panda\.gradle\caches\transforms-2\files-2.1\e714ca649bc1b342f5929fa6ddcd8b6b\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:25-92
+136            </intent-filter>
+137        </receiver>
+138    </application>
+139
+140</manifest>
